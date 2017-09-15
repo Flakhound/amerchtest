@@ -1,5 +1,4 @@
-$ ls
-Pipfile		Procfile	web.py
+
 
 $ heroku create --buildpack heroku/python
 
